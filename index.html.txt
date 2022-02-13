@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<title>happy birthday</title>
+<body>
+
+<h1>happy birthday</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
